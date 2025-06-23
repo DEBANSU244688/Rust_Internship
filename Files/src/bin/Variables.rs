@@ -2,7 +2,7 @@
 
 fn variables(){
     // Basic Types & Variables
-    println!("Basic Types & Variables:");
+    println!("🔤 Basic Types & Variables:");
     
     // Signed Integer
     let a: i8 = -10;
