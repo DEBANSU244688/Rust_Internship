@@ -83,9 +83,11 @@ fn iterate_simple(){
 
 // String Array Initialization & Iteration
 fn iterate_string(){
-    let string_arr = [ String::from("Hello"),
-                                    String::from("World"),
-                                    String::from("Rust") ];
+    let string_arr = [ 
+        String::from("Hello"),
+        String::from("World"),
+        String::from("Rust") 
+    ];
     
     println!("\nString Array Elements:");
     for ele in string_arr{
